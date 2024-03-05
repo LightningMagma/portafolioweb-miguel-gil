@@ -41,6 +41,50 @@ export const SKILLS = [
     }
 ];
 
+export const ACADEMIC_ACTIVITY = [
+    {
+        title: "Desarrollador Junior en Pontificia Universidad Javeriana",
+        date: "Julio 2023 - Enero 2024",
+        responsibilities: [
+            "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
+            "Levantamiento de información",
+            "Análisis de requerimientos",
+            "Desarrollo de app para automatizar el préstamo de equipos de cmputo a docentes para sus clases",
+            "Desarrollo web con uso de PHP",
+            "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
+            "Administración de bases de datos SQL",
+            "Soporte técnico de manera oportuna y efectiva a usuarios"
+        ]
+    },
+    {
+        title: "Desarrollador Junior en Pontificia Universidad Javeriana",
+        date: "Julio 2023 - Enero 2024",
+        responsibilities: [
+            "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
+            "Levantamiento de información",
+            "Análisis de requerimientos",
+            "Desarrollo de app para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
+            "Desarrollo web con uso de PHP",
+            "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
+            "Administración de bases de datos SQL",
+            "Soporte técnico de manera oportuna y efectiva a usuarios"
+        ]
+    },
+    {
+        title: "Desarrollador Junior en Pontificia Universidad Javeriana",
+        date: "Julio 2023 - Enero 2024",
+        responsibilities: [
+            "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
+            "Levantamiento de información",
+            "Análisis de requerimientos",
+            "Desarrollo de app para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
+            "Desarrollo web con uso de PHP",
+            "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
+            "Administración de bases de datos SQL",
+            "Soporte técnico de manera oportuna y efectiva a usuarios"
+        ]
+    },
+];
 export const WORK_EXPERIENCE = [
     {
         title: "Desarrollador Junior en Pontificia Universidad Javeriana",
@@ -57,7 +101,7 @@ export const WORK_EXPERIENCE = [
         ]
     },
     {
-        title: "Desarrollador 2 Junior en Pontificia Universidad Javeriana",
+        title: "Desarrollador Junior en Pontificia Universidad Javeriana",
         date: "Julio 2023 - Enero 2024",
         responsibilities: [
             "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
@@ -71,7 +115,7 @@ export const WORK_EXPERIENCE = [
         ]
     },
     {
-        title: "Desarrollador 3 Junior en Pontificia Universidad Javeriana",
+        title: "Desarrollador Junior en Pontificia Universidad Javeriana",
         date: "Julio 2023 - Enero 2024",
         responsibilities: [
             "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",

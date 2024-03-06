@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.172be3a8.css",
-    "main.js": "/static/js/main.63b49c2d.js",
-    "static/js/453.b6d76f8e.chunk.js": "/static/js/453.b6d76f8e.chunk.js",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.172be3a8.css.map": "/static/css/main.172be3a8.css.map",
-    "main.63b49c2d.js.map": "/static/js/main.63b49c2d.js.map",
-    "453.b6d76f8e.chunk.js.map": "/static/js/453.b6d76f8e.chunk.js.map"
+    "main.css": "/portafolioweb-miguel-gil/static/css/main.4c30e85c.css",
+    "main.js": "/portafolioweb-miguel-gil/static/js/main.68b01295.js",
+    "static/js/453.b6d76f8e.chunk.js": "/portafolioweb-miguel-gil/static/js/453.b6d76f8e.chunk.js",
+    "static/media/slick.svg": "/portafolioweb-miguel-gil/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portafolioweb-miguel-gil/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portafolioweb-miguel-gil/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portafolioweb-miguel-gil/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portafolioweb-miguel-gil/index.html",
+    "main.4c30e85c.css.map": "/portafolioweb-miguel-gil/static/css/main.4c30e85c.css.map",
+    "main.68b01295.js.map": "/portafolioweb-miguel-gil/static/js/main.68b01295.js.map",
+    "453.b6d76f8e.chunk.js.map": "/portafolioweb-miguel-gil/static/js/453.b6d76f8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.172be3a8.css",
-    "static/js/main.63b49c2d.js"
+    "static/css/main.4c30e85c.css",
+    "static/js/main.68b01295.js"
   ]
 }

@@ -23,10 +23,10 @@ const Hero = () => {
                         <img src="./assets/images/c-sharp.png" alt="" />
                     </div>
                     <div className="tech-icon">
-                        <img src="./assets/images/html-5.png" alt="" />
+                        <img src="./assets/images/react.png" alt="" />
                     </div>
                     <div className="tech-icon">
-                        <img src="./assets/images/css-3.png" alt="" />
+                        <img src="./assets/images/database.png" alt="" />
                     </div>
                     <div className="tech-icon">
                         <img src="./assets/images/js.png" alt="" />

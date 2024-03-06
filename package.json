@@ -1,6 +1,7 @@
 {
   "name": "portafolioweb-miguel-gil",
   "version": "0.1.0",
+  "homepage": "https://lightningmagma.github.io/portafolioweb-miguel-gil/",
   "private": false,
   "dependencies": {
     "@emailjs/browser": "^4.3.1",

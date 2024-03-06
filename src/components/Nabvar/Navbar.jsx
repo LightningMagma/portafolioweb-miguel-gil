@@ -13,6 +13,7 @@ const Navbar = () => {
         }
     };
     const refresh = () => {
+        window.history.replaceState(null, null, window.location.pathname);
         window.location.reload();
     }
     return (

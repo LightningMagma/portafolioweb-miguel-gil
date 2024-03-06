@@ -1,10 +1,10 @@
 import React, { useRef } from 'react'
-import './WorkExperience.css'
-import { WORK_EXPERIENCE } from '../../utils/data'
-import ExperienceCard from './ExperienceCard/ExperienceCard'
-import Slider from "react-slick";
+import './AcademicActivity.css'
+import Slider from 'react-slick'
+import { ACADEMIC_ACTIVITY } from '../../utils/data'
+import AcademicCard from './AcademicCard/AcademicCard'
 
-const WorkExperience = () => {
+const AcademicActivity = () => {
     const sliderRef = useRef();
     const settings = {
         dots: false,
@@ -30,11 +30,10 @@ const WorkExperience = () => {
     const slideLeft = () => {
         sliderRef.current.slickPrev();
     }
-
     return (
-        <section className="experience-container" id="workSection">
-            <h5>Experiencia Laboral</h5>
-            <div className="experience-content">
+        <section className="activity-container" id="academicSection">
+            <h5>Estudios y certificados</h5>
+            <div className="activity-content">
                 <div className="arrow-right" onClick={slideRight}>
                     <span className="material-icons">chevron_right</span>
                 </div>
@@ -42,13 +41,13 @@ const WorkExperience = () => {
                     <span className="material-icons">chevron_left</span>
                 </div>
                 <Slider ref={sliderRef}{...settings}>
-                    {WORK_EXPERIENCE.map((item) => (
-                        <ExperienceCard key={item.title} details={item} />
+                    {ACADEMIC_ACTIVITY.map((item) => (
+                        <AcademicCard key={item.title} details={item} />
                     ))}
                 </Slider>
             </div>
         </section>
-    );
-};
+    )
+}
 
-export default WorkExperience
+export default AcademicActivity

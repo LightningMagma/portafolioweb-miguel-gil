@@ -6,26 +6,35 @@ const Navbar = () => {
     const toggleMenu = () => {
         setOpenMenu(!openMenu);
     };
+    const scrollToContact = () => {
+        const contactSection = document.getElementById('contactSection');
+        if (contactSection) {
+            contactSection.scrollIntoView({ behavior: 'smooth' });
+        }
+    };
+    const refresh = () => {
+        window.location.reload();
+    }
     return (
         <>
             <MobileNav isOpen={openMenu} toggleMenu={toggleMenu} />
             <nav className="nav-wrapper">
                 <div className="nav-content">
-                    <img src="./assets/images/logo.png" alt="" className="logo" />
+                    <img src="./assets/images/logo.png" alt="Miguel Gil" className="logo" onClick={refresh} />
                     <ul>
                         <li>
-                            <a className="menu-item">Inicio</a>
+                            <a className="menu-item" href="#homeSection">Inicio</a>
                         </li>
                         <li>
-                            <a className="menu-item">Habilidades</a>
+                            <a className="menu-item" href="#skillsSection">Habilidades</a>
                         </li>
                         <li>
-                            <a className="menu-item">Experiencia laboral</a>
+                            <a className="menu-item" href="#academicSection">Estudios</a>
                         </li>
                         <li>
-                            <a className="menu-item">Contacto</a>
+                            <a className="menu-item" href="#workSection">Experiencia laboral</a>
                         </li>
-                        <button className="contact-btn" onClick={() => { }}>Contrátame</button>
+                        <button className="contact-btn" onClick={scrollToContact}>Contacto</button>
                     </ul>
                     <button className="menu-btn" onClick={toggleMenu}>
                         <span className="material-icons" style={{ fontSize: "1.8rem" }}>

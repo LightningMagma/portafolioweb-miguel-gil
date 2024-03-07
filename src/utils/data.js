@@ -79,7 +79,7 @@ export const ACADEMIC_ACTIVITY = [
         ]
     },
     {
-        title: "Lógica de programación con JAVASCRIPT",
+        title: "Lógica de programación con JAVASCRIPT - Alura",
         date: "Enero 2024",
         responsibilities: [
             "Orientación a objetivos",

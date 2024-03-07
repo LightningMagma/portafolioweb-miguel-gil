@@ -10,13 +10,13 @@ const MobileNav = ({ isOpen, toggleMenu }) => {
     const refresh = () => {
         window.history.replaceState(null, null, window.location.pathname);
         window.location.reload();
-    }
+    };
     return (
         <>
             <div className={`mobile-menu ${isOpen ? "active" : ""}`}
                 onClick={toggleMenu}>
                 <div className='mobile-menu-container'>
-                    <img src="./assets/images/logo.png" alt="" className="logo" onClick={refresh} />
+                    <img src="portafolioweb-miguel-gil/assets/images/logo.png" alt="" className="logo" onClick={refresh} />
                     <ul>
                         <li>
                             <a className="menu-item" href="#homeSection">Inicio</a>

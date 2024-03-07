@@ -1,7 +1,7 @@
 export const SKILLS = [
     {
         title: "Frontend",
-        icon: "./assets/images/ux.png",
+        icon: "portafolioweb-miguel-gil/assets/images/ux.png",
         skills: [
             { skill: "HTML5", percentage: "80%" },
             { skill: "CSS3", percentage: "70%" },
@@ -11,7 +11,7 @@ export const SKILLS = [
     },
     {
         title: "Backend",
-        icon: "./assets/images/backend.png",
+        icon: "portafolioweb-miguel-gil/assets/images/backend.png",
         skills: [
             { skill: "JAVA", percentage: "70%" },
             { skill: "C#", percentage: "70%" },
@@ -21,7 +21,7 @@ export const SKILLS = [
     },
     {
         title: "Herramientas",
-        icon: "./assets/images/framework.png",
+        icon: "portafolioweb-miguel-gil/assets/images/framework.png",
         skills: [
             { skill: "Visual Studio & VS Code", percentage: "80%" },
             { skill: "Git & GitHub", percentage: "80%" },
@@ -31,7 +31,7 @@ export const SKILLS = [
     },
     {
         title: "Soft Skills",
-        icon: "./assets/images/competence.png",
+        icon: "portafolioweb-miguel-gil/assets/images/competence.png",
         skills: [
             { skill: "Liderazgo", percentage: "90%" },
             { skill: "Resolución de problemas", percentage: "80%" },

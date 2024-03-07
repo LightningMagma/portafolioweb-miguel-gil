@@ -14,22 +14,22 @@ const Hero = () => {
             <div className="hero-img">
                 <div>
                     <div className="tech-icon">
-                        <img src="./assets/images/java.png" alt="" />
+                        <img src="portafolioweb-miguel-gil/assets/images/java.png" alt="" />
                     </div>
-                    <img className="bordeimg" src="./assets/images/magma.jpg" alt="" />
+                    <img className="bordeimg" src="portafolioweb-miguel-gil/assets/images/magma.jpg" alt="" />
                 </div>
                 <div>
                     <div className="tech-icon">
-                        <img src="./assets/images/c-sharp.png" alt="" />
+                        <img src="portafolioweb-miguel-gil/assets/images/c-sharp.png" alt="" />
                     </div>
                     <div className="tech-icon">
-                        <img src="./assets/images/react.png" alt="" />
+                        <img src="portafolioweb-miguel-gil/assets/images/react.png" alt="" />
                     </div>
                     <div className="tech-icon">
-                        <img src="./assets/images/database.png" alt="" />
+                        <img src="portafolioweb-miguel-gil/assets/images/database.png" alt="" />
                     </div>
                     <div className="tech-icon">
-                        <img src="./assets/images/js.png" alt="" />
+                        <img src="portafolioweb-miguel-gil/assets/images/js.png" alt="" />
                     </div>
                 </div>
             </div>

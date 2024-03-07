@@ -21,7 +21,7 @@ const Navbar = () => {
             <MobileNav isOpen={openMenu} toggleMenu={toggleMenu} />
             <nav className="nav-wrapper">
                 <div className="nav-content">
-                    <img src="portafolioweb-miguel-gil/assets/images/logo.png" alt="Miguel Gil" className="logo" onClick={refresh} />
+                    <img src="./assets/images/logo.png" alt="Miguel Gil" className="logo" onClick={refresh} />
                     <ul>
                         <li>
                             <a className="menu-item" href="#homeSection">Inicio</a>

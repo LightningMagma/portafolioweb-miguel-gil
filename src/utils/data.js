@@ -100,6 +100,26 @@ export const ACADEMIC_ACTIVITY = [
             "Inteligencia artificial más allá de la ingeniería"
         ]
     },
+    {
+        title: "Fundamentos profesionales en ciberseguridad - Microsoft y LinkedIn",
+        date: "Marzo 2024",
+        responsibilities: [
+            "Concienciación en ciberseguridad: Terminología de ciberseguridad",
+            "Fundamentos de ciberseguridad",
+            "Panorámica de amenazas a la ciberseguridad"
+        ]
+    },
+    {
+        title: "Ciberseguridad - MinTIC",
+        date: "Marzo 2024",
+        responsibilities: [
+            "Fundamentos de la ciberseguridad",
+            "Proteger la información personal",
+            "Mantener la privacidad en línea",
+            "Identificar y prevenir amenazas cibernéticas",
+            "Responder de manera adecuada a incidentes de seguridad"
+        ]
+    },
 ];
 export const WORK_EXPERIENCE = [
     {
@@ -109,7 +129,7 @@ export const WORK_EXPERIENCE = [
             "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
             "Levantamiento de información",
             "Análisis de requerimientos",
-            "Desarrollo de app para automatizar el préstamo de equipos de cmputo a docentes para sus clases",
+            "Desarrollo de app para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
             "Desarrollo web con uso de PHP",
             "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
             "Administración de bases de datos SQL",

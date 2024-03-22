@@ -120,6 +120,13 @@ export const ACADEMIC_ACTIVITY = [
             "Responder de manera adecuada a incidentes de seguridad"
         ]
     },
+    {
+        title: "ENGLISH DOES WORK",
+        date: "Mayo 2023 - Julio 2023",
+        responsibilities: [
+            "Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el marco común europeo de referencia para las lenguas",
+        ]
+    },
 ];
 export const WORK_EXPERIENCE = [
     {
@@ -129,8 +136,8 @@ export const WORK_EXPERIENCE = [
             "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
             "Levantamiento de información",
             "Análisis de requerimientos",
-            "Desarrollo de app para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
-            "Desarrollo web con uso de PHP",
+            "Desarrollo de sistema para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
+            "Desarrollo web",
             "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
             "Administración de bases de datos SQL",
             "Soporte técnico de manera oportuna y efectiva a usuarios"
@@ -143,8 +150,8 @@ export const WORK_EXPERIENCE = [
             "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
             "Levantamiento de información",
             "Análisis de requerimientos",
-            "Desarrollo de app para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
-            "Desarrollo web con uso de PHP",
+            "Desarrollo de sistema para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
+            "Desarrollo web",
             "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
             "Administración de bases de datos SQL",
             "Soporte técnico de manera oportuna y efectiva a usuarios"
@@ -157,8 +164,8 @@ export const WORK_EXPERIENCE = [
             "Prácticas de Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
             "Levantamiento de información",
             "Análisis de requerimientos",
-            "Desarrollo de app para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
-            "Desarrollo web con uso de PHP",
+            "Desarrollo de sistema para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
+            "Desarrollo web",
             "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
             "Administración de bases de datos SQL",
             "Soporte técnico de manera oportuna y efectiva a usuarios"

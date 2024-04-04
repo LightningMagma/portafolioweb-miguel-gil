@@ -138,8 +138,8 @@ export const WORK_EXPERIENCE = [
             "Análisis de requerimientos",
             "Desarrollo de sistema para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
             "Desarrollo web",
-            "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
-            "Administración de bases de datos SQL",
+            "Desarrollo de página web para la dependencia OSU",
+            "Administración y desarrollo de bases de datos SQL",
             "Soporte técnico de manera oportuna y efectiva a usuarios"
         ]
     },
@@ -152,8 +152,8 @@ export const WORK_EXPERIENCE = [
             "Análisis de requerimientos",
             "Desarrollo de sistema para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
             "Desarrollo web",
-            "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
-            "Administración de bases de datos SQL",
+            "Desarrollo de página web para la dependencia OSU",
+            "Administración y desarrollo de bases de datos SQL",
             "Soporte técnico de manera oportuna y efectiva a usuarios"
         ]
     },
@@ -166,8 +166,8 @@ export const WORK_EXPERIENCE = [
             "Análisis de requerimientos",
             "Desarrollo de sistema para automatizar el préstamo de equipos de cómputo a docentes para sus clases",
             "Desarrollo web",
-            "Desarrollo de página web mediante Power Apps, Power Automate y SharePoint",
-            "Administración de bases de datos SQL",
+            "Desarrollo de página web para la dependencia OSU",
+            "Administración y desarrollo de bases de datos SQL",
             "Soporte técnico de manera oportuna y efectiva a usuarios"
         ]
     },

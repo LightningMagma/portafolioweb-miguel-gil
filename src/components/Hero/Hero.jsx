@@ -7,7 +7,7 @@ const Hero = () => {
             <div className="hero-content">
                 <h2>Junior Developer</h2>
                 <p>
-                    Java | C# | JavaScript | PHP | SQL server | MySQL | JSON | Node.js | Power Bl | Power Automate | Power Apps | HTML | CSS
+                Java | C# | JavaScript | PHP | SQL server | MySQL | React | JSON | Node.js | Power Bl | Power Automate | Power Apps | HTML | CSS
                 </p>
             </div>
 

@@ -48,7 +48,7 @@ export const ACADEMIC_ACTIVITY = [
         responsibilities: [
             "Análisis de requerimientos",
             "Levantamiento de información",
-            "Desarrollo Web en JAVA, PHP, Node.js, C# (.NET), JavaScript",
+            "Desarrollo JAVA, PHP, Node.js, C# (.NET), JavaScript",
             "Diseño de bases de datos",
             "Administración y manejo de bases de datos SQL",
             "Pruebas unitarias Junit",
